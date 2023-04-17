@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997050778891",
+    "project_id": "dpboss-f8a30",
+    "storage_bucket": "dpboss-f8a30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997050778891:android:0b6896f0aeaab7b3088e0e",
+        "android_client_info": {
+          "package_name": "com.example.dpboss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997050778891-9uvbqft6obq9jjecta8rgr7ovlsr8cr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHbikuqvP2aTZo4bYhVlX0cEuWIqQmMAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997050778891-9uvbqft6obq9jjecta8rgr7ovlsr8cr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
